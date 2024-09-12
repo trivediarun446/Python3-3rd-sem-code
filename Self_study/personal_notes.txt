@@ -1,0 +1,9 @@
+ ALL TYPE OF DATA TYPE
+
+* a = 10                    integer (int)
+* b =1 2.56                 float (decimal)
+* c = "Arun Trivedi "       string 
+* d ='a'                    charachter type data type
+* set 
+* e= false                  it is a boolean data type
+* f = none                  it is a  none type of data type 
