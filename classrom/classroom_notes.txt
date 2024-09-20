@@ -204,3 +204,21 @@ ex :-
 Fundamental data type v/s immutability: 
 
 All the data type are immutable that is one  we create an object , we cannot perform any changes in that object . If we are trying to change then with those changes a new object will be created . This non changeable behaviour is caled immutability 
+
+
+17 sept 2024 
+
+
+bytes data type represence a group of bytes numbers just like an array 
+
+eg 
+x={10 , 20,30 ,40}
+b = bytes(x)
+type(b)==> bytes 
+print(b[0])==>10 
+print(b[-1])==>40 
+>>>for i in b : print(i)
+
+conclusion 1: 
+
+THe 4
